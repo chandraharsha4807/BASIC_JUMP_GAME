@@ -1,1 +1,4 @@
-# Basic_Angular
+# BASIC WEB PAGE
+HTML
+CSS
+JS
